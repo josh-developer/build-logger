@@ -4,7 +4,6 @@ A lightweight, framework-agnostic library that logs build information (timestamp
 Useful for debugging deployments, verifying CI/CD builds, and showing build versions inside your apps.
 
 ✨ Features
-
 📅 Logs build timestamp in human-readable format
 
 🖥️ Supports CI/CD metadata (build ID, commit, branch, provider)
