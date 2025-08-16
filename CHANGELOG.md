@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/josh-developer/build-logger/compare/v1.0.1...v1.0.2) (2025-08-16)
+
+
+### Bug Fixes
+
+* **logger:** fix secrets ([f4a2224](https://github.com/josh-developer/build-logger/commit/f4a22249fa1f055884df70e6bdd78c59d9af663e))
+
 ## [1.0.1](https://github.com/josh-developer/build-logger/compare/v1.0.0...v1.0.1) (2025-08-16)
 
 
