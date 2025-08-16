@@ -3,7 +3,9 @@
   "private": false,
   "version": "0.1.2",
   "type": "module",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "types": "./dist/index.d.ts",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
@@ -23,8 +25,18 @@
     "prepublishOnly": "npm run build"
   },
   "devDependencies": {
+    "@commitlint/cli": "^19.8.1",
+    "@commitlint/config-conventional": "^19.8.1",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^11.0.4",
+    "@semantic-release/npm": "^12.0.2",
+    "@types/node": "^24.3.0",
+    "husky": "^9.1.7",
+    "semantic-release": "^24.2.7",
     "tsup": "^8.0.0",
-    "typescript": "^5.6.0",
-    "@types/node": "^24.3.0"
+    "typescript": "^5.6.0"
+  },
+  "dependencies": {
+    "@semantic-release/changelog": "^6.0.3"
   }
 }
