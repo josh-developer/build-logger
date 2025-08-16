@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/josh-developer/build-logger/compare/v1.0.0...v1.0.1) (2025-08-16)
+
+
+### Bug Fixes
+
+* **logger:** readme bug ([768f587](https://github.com/josh-developer/build-logger/commit/768f587846bb6cf9560b2eb26c9b2fa77e808437))
+
 # 1.0.0 (2025-08-16)
 
 
